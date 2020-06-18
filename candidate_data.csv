@@ -1,36 +1,36 @@
-Candidate Name,District,Nominated for which office/position?,What issues do they support? ,Issues - Notes,What do they have to show? Track record,Track Record - Notes,Actively running
-Nydia M. Velazquez,7th Congressional District,Representative in Congress,https://velazquez.house.gov/issues,"- Climate change and environment - pro cleaner environment
+Party,CandidateName,SearchId,District,Office,IssuesWebsite,Issues,TrackRecordWebsite,TrackRecord,Actively running
+Democratic,Nydia M. Velazquez,us-representative-7,7th Congressional District,Representative in Congress,https://velazquez.house.gov/issues,"- Climate change and environment - pro cleaner environment
 - Eliminate technological divide between rich/poor
 - Pro affordable, universal healthcare
 - Pro small business
 - Advocate for public housing residents to preservce government-owned housing",https://velazquez.house.gov/about/full-biography,- Pushed for pandemic unemployment assistance to be tax-free,yes?
-Paperboy Love Prince,7th Congressional District,Representative in Congress,https://paperboyprince.com/,"- Universal basic income
+Democratic,Paperboy Love Prince,us-representative-7,7th Congressional District,Representative in Congress,https://paperboyprince.com/,"- Universal basic income
 - Medicare for all",https://paperboyprince.com/videos/?paper_id=0&paper_title=music,,i think so?
-Isiah James,9th Congressional District,Representative in Congress,https://www.isiahforcongress.com/issues,,https://www.isiahforcongress.com/isiahs-story,,yes
-Chaim M. Deutsch,9th Congressional District,Representative in Congress,https://chaimforcongress.com/news <- closest thing to issues this candidate supports,,https://council.nyc.gov/chaim-deutsch/,,
-Adem Bunkeddeko,9th Congressional District,Representative in Congress,https://ademforcongress.com/issues-1/#issues,,https://ademforcongress.com/#about,,
-Lutchi Gayot,9th Congressional District,Representative in Congress,https://www.teamgayot.com/classes,,https://www.teamgayot.com/about,,yes?
-Yvette D. Clarke,9th Congressional District,Representative in Congress,https://clarke.house.gov/issues/,,https://clarke.house.gov/about/biography/,,
-Jonathan Herzog,10th Congressional District,Representative in Congress,https://www.herzog2020.com/policy,"- Universal basic income
+Democratic,Isiah James,us-representative-9,9th Congressional District,Representative in Congress,https://www.isiahforcongress.com/issues,,https://www.isiahforcongress.com/isiahs-story,,yes
+Democratic,Chaim M. Deutsch,us-representative-9,9th Congressional District,Representative in Congress,https://chaimforcongress.com/news <- closest thing to issues this candidate supports,,https://council.nyc.gov/chaim-deutsch/,,
+Democratic,Adem Bunkeddeko,us-representative-9,9th Congressional District,Representative in Congress,https://ademforcongress.com/issues-1/#issues,,https://ademforcongress.com/#about,,
+Democratic,Lutchi Gayot,us-representative-9,9th Congressional District,Representative in Congress,https://www.teamgayot.com/classes,,https://www.teamgayot.com/about,,yes?
+Democratic,Yvette D. Clarke,us-representative-9,9th Congressional District,Representative in Congress,https://clarke.house.gov/issues/,,https://clarke.house.gov/about/biography/,,
+Democratic,Jonathan Herzog,us-representative-10,10th Congressional District,Representative in Congress,https://www.herzog2020.com/policy,"- Universal basic income
 - Universal healthcare
 - Data privacy
 - Criminal justice reform
 - Combat climate change
 - Affordable housing
 - LGBTQ+ equality",https://www.herzog2020.com/about,,
-Lindsey Boylan,10th Congressional District,Representative in Congress,https://lindseyboylan.com/priority-issues.html,"- Police violence
+Democratic,Lindsey Boylan,us-representative-10,10th Congressional District,Representative in Congress,https://lindseyboylan.com/priority-issues.html,"- Police violence
 - Affordable housing
 - Equality for women
 - Climate control
 - Reform criminal justice system
 - Mental health crisis
 - Invest in small business",https://lindseyboylan.com/meet-lindsey.html,,
-Jerrold L. Nadler,10th Congressional District,Representative in Congress,https://nadler.house.gov/about-jerry/,"- Strengthen gun laws
+Democratic,Jerrold L. Nadler,us-representative-10,10th Congressional District,Representative in Congress,https://nadler.house.gov/about-jerry/,"- Strengthen gun laws
 - Reform criminal justice system
 - LGBTQ equality
 - Citizenship for DREAMers
 - Cheaper healthcare",https://nadler.house.gov/legislative-work/sponsored-legislation.htm,,
-Suraj Patel ,12th Congressional District,Representative in Congress,https://www.surajpatel.nyc/policy,"- Climate Change
+Democratic,Suraj Patel ,us-representative-12,12th Congressional District,Representative in Congress,https://www.surajpatel.nyc/policy,"- Climate Change
 - Women's Rights
 - Mental Health
 - Racial Wealth Gap
@@ -39,80 +39,54 @@ Suraj Patel ,12th Congressional District,Representative in Congress,https://www.
 - Gun control
 - LGBTQ Rights
 - Immigration",https://www.surajpatel.nyc/meetsuraj,,
-Carolyn B. Maloney,12th Congressional District,Representative in Congress,https://maloney.house.gov/issues,"- Universal healthcare
+Democratic,Carolyn B. Maloney,us-representative-12,12th Congressional District,Representative in Congress,https://maloney.house.gov/issues,"- Universal healthcare
 - Education, eliminating student debt, free 4-year college
 - Women's rights
 - Gun control
 - Affordable housing
 - Equality / social justice
 - Immigration and DACA",https://maloney.house.gov/about/accomplishments,,
-Peter Harrison,12th Congressional District,Representative in Congress,https://www.peterfornewyork.com/why-im-running,"- Pro environment
+Democratic,Peter Harrison,us-representative-12,12th Congressional District,Representative in Congress,https://www.peterfornewyork.com/why-im-running,"- Pro environment
 - Free public transit (to improve air quality)
 - Affordable housing
 - Universal childcare
 - Pro unions",https://www.peterfornewyork.com/about-me,,
-Lauren Ashcraft ,12th Congressional District,Representative in Congress,https://laurenashcraft.com/issue/,"denise
+Democratic,Lauren Ashcraft ,us-representative-12,12th Congressional District,Representative in Congress,https://laurenashcraft.com/issue/,"denise
 - The Climate Crisis
 - Single-Payer Medicare-for-All",https://laurenashcraft.com/story/,,
-Julia Salazar,18th Senatorial District,State Senator,https://salazarforsenate.com/issues,,https://www.nysenate.gov/senators/julia-salazar/legislation,,
-Andy J. Marte,18th Senatorial District,State Senator,https://www.unitedformarte.com/political-concerns,,https://www.unitedformarte.com/meet-andy,,
-Keron Alleyne,19th Senatorial District,State Senator,https://keronfornewyork.com/issues,,https://keronfornewyork.com/about,,
-Roxanne J. Persaud,19th Senatorial District,State Senator,https://roxannepersaud.com/about-roxanne/,,https://www.nysenate.gov/senators/roxanne-j-persaud/legislation,,
-Rajiv S. Gowda,23rd Senatorial District,State Senator,https://www.gowdaforsenate.com/meet-rajiv,,https://www.gowdaforsenate.com/meet-rajiv,,
-Diane J. Savino,23rd Senatorial District,State Senator,https://www.nysenate.gov/senators/diane-j-savino/about,,https://www.nysenate.gov/senators/diane-j-savino/legislation,,
-Jabari Brisport,25th Senatorial District,State Senator,https://jabariforstatesenate.com/platform/,,https://jabariforstatesenate.com/meet-jabari/,,
-Tremaine S. Wright,25th Senatorial District,State Senator,users can gather information from media: https://nyassembly.gov/mem/Tremaine-Wright/media/ ,,https://brooklyn.tremainewright.com/accomplishments,,
-Jason Salmon ,25th Senatorial District,State Senator,https://salmon4ny.com/priorities/,,https://salmon4ny.com/about/,,
-Jesse E. Hamilton,43rd Assembly District,Member of the Assembly,http://jessehamilton.com/ifightforyou.html,,http://jessehamilton.com/accomplishments.html,,
-Diana Richardson,43rd Assembly District,Member of the Assembly,https://dianarichardson.net/issues/,,https://dianarichardson.net/about/,,
-Emily E. Gallagher,50th Assembly District,Member of the Assembly,https://www.emilyforassembly.com/issues/,,https://www.emilyforassembly.com/meet-emily/,,
-Joseph R. Lentol ,50th Assembly District,Member of the Assembly,https://www.joelentol.com/,,https://assembly.state.ny.us/mem/Joseph-R-Lentol/sponsor/,,
-Katherine P. Walsh,51st Assembly District,Member of the Assembly,https://www.katherineforassembly.com/issues,,https://www.katherineforassembly.com/about,,
-Marcela Mitaynes ,51st Assembly District,Member of the Assembly,https://marcelaforny.org/platform,,https://marcelaforny.org/meet-marcela,,
-Genesis E. Aquino,51st Assembly District,Member of the Assembly,https://brooklyneagle.com/articles/2019/09/16/genesis-aquino-sunset-park-assembly-run/,,https://genesisfornewyork.com/meet_genesis/,,
-Felix W. Ortiz,51st Assembly District,Member of the Assembly,https://www.felixortiz2020.com/about-us,,https://nyassembly.gov/mem/Felix-W-Ortiz/sponsor/,,
-Justin Cohen,56th Assembly District,Member of the Assembly,https://www.justincohen2020.com/issues,,https://www.justincohen2020.com/about,,
-Stefani L. Zinerman,56th Assembly District,Member of the Assembly,https://www.zinermanfor56ad.com/platform,,https://www.zinermanfor56ad.com/record,,
-Walter T. Mosley III, 57th Assembly District,Member of the Assembly,under biography: https://www.facebook.com/pg/AssemblymanWalterMosley/about/?ref=page_internal ,,https://nyassembly.gov/mem/Walter-T-Mosley/sponsor/,,
-Phara Souffrant Forrest,57th Assembly District,Member of the Assembly,https://pharaforassembly.com/platform/,,https://pharaforassembly.com/meet-phara/,,
-Maria Aragona,3rd Municipal Court District - Kings,Judge of the Civil Court - District,,,,,
-Stephen Serge Burzio,3rd Municipal Court District - Kings,Judge of the Civil Court - District,,,,,
-Linda T. Minucci,50th Assembly District,Female State Committee,,,,,
-Kristina S. Naplatarski,50th Assembly District,Female State Committee,,,,,
-Rachel E. Stein,52nd Assembly District,Female State Committee,,,,,
-Jesse Pierce,52nd Assembly District,Female State Committee,,,,,
-Arleny Alvarado-McCalla,54th Assembly District,Female State Committee,,,,,
-Acire J. Polight,54th Assembly District,Female State Committee,,,,,
-Shemene M. Minter,55th Assembly District,Female State Committee,,,,,
-Darlene Mealy ,55th Assembly District,Female State Committee,,,,,
-Beverly Newsome,57th Assembly District,Female State Committee,,,,,
-Olanike Alabi ,57th Assembly District,Female State Committee,,,,,
-Shaquana D. Boykin,57th Assembly District,Female State Committee,,,,,
-Inez D. Barron,60th Assembly District,Female State Committee,,,,,
-Nikki Lucas,60th Assembly District,Female State Committee,,,,,
-Julio Pena III,51st Assembly District,Male State Committee,,,,,
-Robert F. Berrios,51st Assembly District,Male State Committee,,,,,
-Samuel N. Olivares,53rd Assembly District,Male State Committee,,,,,
-Tommy Torres,53rd Assembly District,Male State Committee,,,,,
-Nafiz I. Chowdhury ,54th Assembly District,Male State Committee,,,,,
-Robert R. Camacho ,54th Assembly District,Male State Committee,,,,,
-Erik Martin Dilan,54th Assembly District,Male State Committee,,,,,
-Anthony T. Jones,55th Assembly District,Male State Committee,,,,,
-Bilal A. Malik,55th Assembly District,Male State Committee,,,,,
-Henry L. Butler,56th Assembly District,Male State Committee,,,,,
-Robert Waterman,56th Assembly District,Male State Committee,,,,,
-Charles Barron,60th Assembly District,Male State Committee,,,,,
-Christopher W. Banks ,60th Assembly District,Male State Committee,,,,,STOPPED HERE
-Queens,,,,,,,
-Michael Weinstock,3rd Congressional District,Representative in Congress,https://weinstockforcongress.com/,,,,
-Melanie D'Arrigo,3rd Congressional District,Representative in Congress,https://www.darrigo2020.com/,,,,
-Thomas R. Suozzi,3rd Congressional District,Representative in Congress,https://suozzi.house.gov/,,,,
-Shaniyat Chowdhury,5th Congressional District,Representative in Congress,https://shaniyat2020.com/,,,,
-Gregory W. Meeks,5th Congressional District,Representative in Congress,https://meeks.house.gov/,,,,
-Sandra Choi,6th Congressional District,Representative in Congress,https://www.sandrachoi2020.com/,,,,
-Melquiades R. Gagarin,6th Congressional District,Representative in Congress,https://melforprogress.com/,,,,
-Grace Meng,6th Congressional District,Representative in Congress,https://meng.house.gov/,,,,
-Suraj Patel,12th Congressional District,Representative in Congress,https://www.surajpatel.nyc/,"- Climate Change
+Democratic,Julia Salazar,state-senator-18,18th Senatorial District,State Senator,https://salazarforsenate.com/issues,,https://www.nysenate.gov/senators/julia-salazar/legislation,,
+Democratic,Andy J. Marte,state-senator-18,18th Senatorial District,State Senator,https://www.unitedformarte.com/political-concerns,,https://www.unitedformarte.com/meet-andy,,
+Democratic,Keron Alleyne,state-senator-19,19th Senatorial District,State Senator,https://keronfornewyork.com/issues,,https://keronfornewyork.com/about,,
+Democratic,Roxanne J. Persaud,state-senator-19,19th Senatorial District,State Senator,https://roxannepersaud.com/about-roxanne/,,https://www.nysenate.gov/senators/roxanne-j-persaud/legislation,,
+Democratic,Rajiv S. Gowda,state-senator-23,23rd Senatorial District,State Senator,https://www.gowdaforsenate.com/meet-rajiv,,https://www.gowdaforsenate.com/meet-rajiv,,
+Democratic,Diane J. Savino,state-senator-23,23rd Senatorial District,State Senator,https://www.nysenate.gov/senators/diane-j-savino/about,,https://www.nysenate.gov/senators/diane-j-savino/legislation,,
+Democratic,Jabari Brisport,state-senator-25,25th Senatorial District,State Senator,https://jabariforstatesenate.com/platform/,,https://jabariforstatesenate.com/meet-jabari/,,
+Democratic,Tremaine S. Wright,state-senator-25,25th Senatorial District,State Senator,users can gather information from media: https://nyassembly.gov/mem/Tremaine-Wright/media/ ,,https://brooklyn.tremainewright.com/accomplishments,,
+Democratic,Jason Salmon ,state-senator-25,25th Senatorial District,State Senator,https://salmon4ny.com/priorities/,,https://salmon4ny.com/about/,,
+Democratic,Jesse E. Hamilton,assembly-member-43,43rd Assembly District,Member of the Assembly,http://jessehamilton.com/ifightforyou.html,,http://jessehamilton.com/accomplishments.html,,
+Democratic,Diana Richardson,assembly-member-43,43rd Assembly District,Member of the Assembly,https://dianarichardson.net/issues/,,https://dianarichardson.net/about/,,
+Democratic,Emily E. Gallagher,assembly-member-50,50th Assembly District,Member of the Assembly,https://www.emilyforassembly.com/issues/,,https://www.emilyforassembly.com/meet-emily/,,
+Democratic,Joseph R. Lentol ,assembly-member-50,50th Assembly District,Member of the Assembly,https://www.joelentol.com/,,https://assembly.state.ny.us/mem/Joseph-R-Lentol/sponsor/,,
+Democratic,Katherine P. Walsh,assembly-member-51,51st Assembly District,Member of the Assembly,https://www.katherineforassembly.com/issues,,https://www.katherineforassembly.com/about,,
+Democratic,Marcela Mitaynes ,assembly-member-51,51st Assembly District,Member of the Assembly,https://marcelaforny.org/platform,,https://marcelaforny.org/meet-marcela,,
+Democratic,Genesis E. Aquino,assembly-member-51,51st Assembly District,Member of the Assembly,https://brooklyneagle.com/articles/2019/09/16/genesis-aquino-sunset-park-assembly-run/,,https://genesisfornewyork.com/meet_genesis/,,
+Democratic,Felix W. Ortiz,assembly-member-51,51st Assembly District,Member of the Assembly,https://www.felixortiz2020.com/about-us,,https://nyassembly.gov/mem/Felix-W-Ortiz/sponsor/,,
+Democratic,Justin Cohen,assembly-member-56,56th Assembly District,Member of the Assembly,https://www.justincohen2020.com/issues,,https://www.justincohen2020.com/about,,
+Democratic,Stefani L. Zinerman,assembly-member-56,56th Assembly District,Member of the Assembly,https://www.zinermanfor56ad.com/platform,,https://www.zinermanfor56ad.com/record,,
+Democratic,Walter T. Mosley III,assembly-member-57, 57th Assembly District,Member of the Assembly,under biography: https://www.facebook.com/pg/AssemblymanWalterMosley/about/?ref=page_internal ,,https://nyassembly.gov/mem/Walter-T-Mosley/sponsor/,,
+Democratic,Phara Souffrant Forrest,assembly-member-57,57th Assembly District,Member of the Assembly,https://pharaforassembly.com/platform/,,https://pharaforassembly.com/meet-phara/,,
+Democratic,Maria Aragona,,3rd Municipal Court District - Kings,Judge of the Civil Court - District,https://www.mariaaragona4judge.com/legal-community,,,,
+Democratic,Stephen Serge Burzio,,3rd Municipal Court District - Kings,Judge of the Civil Court - District,,,,,
+Queens,,,,,,,,,
+Democratic,Michael Weinstock,us-represenative-3,3rd Congressional District,Representative in Congress,https://weinstockforcongress.com/,,,,
+Democratic,Melanie D'Arrigo,us-represenative-3,3rd Congressional District,Representative in Congress,https://www.darrigo2020.com/,,,,
+Democratic,Thomas R. Suozzi,us-represenative-3,3rd Congressional District,Representative in Congress,https://suozzi.house.gov/,,,,
+Democratic,Shaniyat Chowdhury,us-represenative-5,5th Congressional District,Representative in Congress,https://shaniyat2020.com/,,,,
+Democratic,Gregory W. Meeks,us-represenative-5,5th Congressional District,Representative in Congress,https://meeks.house.gov/,,,,
+Democratic,Sandra Choi,us-represenative-6,6th Congressional District,Representative in Congress,https://www.sandrachoi2020.com/,,,,
+Democratic,Melquiades R. Gagarin,us-represenative-6,6th Congressional District,Representative in Congress,https://melforprogress.com/,,,,
+Democratic,Grace Meng,us-represenative-6,6th Congressional District,Representative in Congress,https://meng.house.gov/,,,,
+Democratic,Suraj Patel,us-represenative-12,12th Congressional District,Representative in Congress,https://www.surajpatel.nyc/,"- Climate Change
 - Women's Rights
 - Mental Health
 - Racial Wealth Gap
@@ -121,82 +95,86 @@ Suraj Patel,12th Congressional District,Representative in Congress,https://www.s
 - Gun control
 - LGBTQ Rights
 - Immigration",,,
-Lauren Ashcraft,12th Congressional District,Representative in Congress,https://laurenashcraft.com/,,,,
-Samuel H. Sloan,14th Congressional District,Representative in Congress,https://en.wikipedia.org/wiki/Sam_Sloan,,,,
-Badrun N. Khan,14th Congressional District,Representative in Congress,https://badrunkhan.com/,,,,
-Michelle CarusoCabrera,14th Congressional District,Representative in Congress,https://en.wikipedia.org/wiki/Michelle_Caruso-Cabrera,,,,
-Alexandria OcasioCortez,14th Congressional District,Representative in Congress,https://ocasio-cortez.house.gov/,,,,
-Michael N. Gianaris,12th Senatorial District,State Senator,https://en.wikipedia.org/wiki/Michael_Gianaris,,,,
-Ignazio S. Terranova,12th Senatorial District,State Senator,https://www.nysenate.gov/newsroom/video/michael-gianaris/senator-gianaris-honors-ignazio-iggy-terranova-senate-floor,,,,
-Diana S. Sanchez,13th Senatorial District,State Senator,https://www.facebook.com/DianaSanchezNYS/,,,,
-Jessica Ramos,13th Senatorial District,State Senator,https://www.nysenate.gov/senators/jessica-ramos,,,,
-Albert Baldeo,24th Assembly District,Member of the Assembly,http://albertbaldeo.com/,,,,
-David I. Weprin,24th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/David_Weprin,,,,
-Mahfuzul Islam,24th Assembly District,Member of the Assembly,https://www.linkedin.com/in/islammahfuzul,,,,
-Shea Uzoigwe,31st Assembly District,Member of the Assembly,https://queenseagle.com/all/richard-david-shea-uzoigwe-open-assembly-seat,,,,
-Lisa George,31st Assembly District,Member of the Assembly,https://www.rockawave.com/articles/well-known-local-staffer-eyes-assembly-seat/,,,,
-Khaleel Anderson,31st Assembly District,Member of the Assembly,https://twitter.com/khaleelanderson?lang=en,,,,
-Tavia Blakley,31st Assembly District,Member of the Assembly,https://qns.com/story/2020/01/10/what-you-need-to-know-about-the-race-to-fill-michele-titus-assembly-seat/,,,,
-Richard David,31st Assembly District,Member of the Assembly,https://twitter.com/itsrichdavid?lang=en,,,,
-Derrick DeFlorimonte,31st Assembly District,Member of the Assembly,https://www.facebook.com/iamderrickdeflo/,,,,
-Clyde Vanel,33rd Assembly District,Member of the Assembly,https://assembly.state.ny.us/mem/Clyde-Vanel,,,,
-Oster Bryan,33rd Assembly District,Member of the Assembly,https://qns.com/story/2018/09/03/oster-bryan-challenges-clyde-vanel-for-southeast-queens-assembly-seat/,,,,
-Joy Chowdhury,34th Assembly District,Member of the Assembly,https://www.joyfornys.com/,,,,
-Michael G. DenDekker,34th Assembly District,Member of the Assembly,https://assembly.state.ny.us/mem/Michael-G-DenDekker,,,,
-Angel Cruz,34th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Angel_Cruz,,,,
-Jessica GonzalezRojas,34th Assembly District,Member of the Assembly,https://www.votejgr.com/news,,,,
-Nuala O'DohertyNaranjo,34th Assembly District,Member of the Assembly,https://nualafor34.com/,,,,
-Jeffrion L. Aubry,35th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Jeffrion_L._Aubry,,,,
-Hiram Monserrate,35th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Hiram_Monserrate,,,,
-Aravella Simotas,36th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Aravella_Simotas,,,,
-Zohran Kwame Mamdani,36th Assembly District,Member of the Assembly,https://www.zohranforassembly.com/,,,,
-Catherine Nolan,37th Assembly District,Member of the Assembly,https://nyassembly.gov/mem/Catherine-Nolan,,,,
-Danielle Brecker,37th Assembly District,Member of the Assembly,https://www.danielleforassembly.com/,,,,
-Mary Jobaida,37th Assembly District,Member of the Assembly,https://www.maryforassembly.com/,,,,
-Joseph De Jesus,38th Assembly District,Member of the Assembly,https://dejesus2020.com/,,,,
-Michael G. Miller,38th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Michael_G._Miller,,,,
-Jenifer Rajkumar,38th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Jenifer_Rajkumar,,,,
-Catalina Cruz,39th Assembly District,Member of the Assembly,https://nyassembly.gov/mem/Catalina-Cruz/bio/,,,,
-Ramon A. Ramirez,39th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Roberto_Ramirez_(politician),,,,
-Ron Kim,40th Assembly District,Member of the Assembly,https://assembly.state.ny.us/mem/Ron-Kim,,,,
-Steven Lee,40th Assembly District,Member of the Assembly,https://stevefornewyork.com/,,,,
-Bronx,,,,,,,
-Ramon Rodriguez,13th Congressional District,Representative in Congress,https://ramonforcongress.com/,,,,
-James Felton Keith II,13th Congressional District,Representative in Congress,,,,,
-Adriano Espaillat,13th Congressional District,Representative in Congress,,,,,
-Michelle Caruso-Cabrera,14th Congressional District,Representative in Congress,,,,,
-Alexandria Ocasio-Cortez,14th Congressional District,Representative in Congress,,,,,
-Tomas Ramos,15th Congressional District,Representative in Congress,,,,,
-Samelys Lopez,15th Congressional District,Representative in Congress,,,,,
-Frangell Basora,15th Congressional District,Representative in Congress,,,,,
-Melissa Mark-Viverito,15th Congressional District,Representative in Congress,,,,,
-Michael A. Blake,15th Congressional District,Representative in Congress,,,,,
-Ruben Diaz,15th Congressional District,Representative in Congress,,,,,
-Mark Escoffery-Bey,15th Congressional District,Representative in Congress,,,,,
-Ritchie Torres,15th Congressional District,Representative in Congress,,,,,
-Chivona R. Newsome,15th Congressional District,Representative in Congress,,,,,
-Ydanis Rodriguez,15th Congressional District,Representative in Congress,,,,,
-Julio Pabon,15th Congressional District,Representative in Congress,,,,,
-Marlene J. Tapper,15th Congressional District,Representative in Congress,,,,,
-Christopher Fink,16th Congressional District,Representative in Congress,,,,,
-Andom Ghebreghiorgis,16th Congressional District,Representative in Congress,,,,,
-Jamaal Bowman,16th Congressional District,Representative in Congress,,,,,
-Eliot L. Engel,16th Congressional District,Representative in Congress,,,,,
-Sammy Ravelo,16th Congressional District,Representative in Congress,,,,,
-Pamela Stewart-Martinez,32nd Congressional District,State Senator,https://www.nyccfb.info/nyc-votes/vgwelcome/special-election-2018/meet-the-candidates/state-senate-district-32/pamela-stewart-martinez/?languageType=English,,,,
-John Perez,32nd Congressional District,State Senator,,,,,
-Luis R. Sepulveda,32nd Congressional District,State Senator,,,,,
-James B. Gisondi,34th Congressional District,State Senator,https://patch.com/new-york/pelham/candidate-profile-james-gisondi-state-senate,,,,
-Alessandra Biaggi,34th Congressional District,State Senator,https://www.biaggi4ny.com/meet-alessandra,,,,
-Jose Rivera,78th Assembly District,Member of the Assembly,,,,,
-Francisco Spies,78th Assembly District,Member of the Assembly,,,,,
-Eric Stevenson,79th Assembly District,Member of the Assembly,,,,,
-Elvis Santana,79th Assembly District,Member of the Assembly,,,,,
-Cynthia L. Cox,79th Assembly District,Member of the Assembly,,,,,
-Dion Powell,79th Assembly District,Member of the Assembly,,,,,
-George A. Alvarez,79th Assembly District,Member of the Assembly,,,,,
-Chantel Jackson,79th Assembly District,Member of the Assembly,,,,,
-George Diaz,81st Assembly District,Member of the Assembly,,,,,
-Jeffrey Dinowitz,81st Assembly District,Member of the Assembly,,,,,
-Egidio Sementilli,82nd Assembly District,Member of the Assembly,,,,,
-Michael R. Benedetto,82nd Assembly District,Member of the Assembly,,,,,
+Democratic,Lauren Ashcraft,us-represenative-12,12th Congressional District,Representative in Congress,https://laurenashcraft.com/,,,,
+Democratic,Samuel H. Sloan,us-represenative-14,14th Congressional District,Representative in Congress,https://en.wikipedia.org/wiki/Sam_Sloan,,,,
+Democratic,Badrun N. Khan,us-represenative-14,14th Congressional District,Representative in Congress,https://badrunkhan.com/,,,,
+Democratic,Michelle CarusoCabrera,us-represenative-14,14th Congressional District,Representative in Congress,https://en.wikipedia.org/wiki/Michelle_Caruso-Cabrera,,,,
+Democratic,Alexandria OcasioCortez,us-represenative-14,14th Congressional District,Representative in Congress,https://ocasio-cortez.house.gov/,,,,
+Democratic,Michael N. Gianaris,state-senator-12,12th Senatorial District,State Senator,https://en.wikipedia.org/wiki/Michael_Gianaris,,,,
+Democratic,Ignazio S. Terranova,state-senator-12,12th Senatorial District,State Senator,https://www.nysenate.gov/newsroom/video/michael-gianaris/senator-gianaris-honors-ignazio-iggy-terranova-senate-floor,,,,
+Democratic,Diana S. Sanchez,state-senator-13,13th Senatorial District,State Senator,https://www.facebook.com/DianaSanchezNYS/,,,,
+Democratic,Jessica Ramos,state-senator-13,13th Senatorial District,State Senator,https://www.nysenate.gov/senators/jessica-ramos,,,,
+Democratic,Albert Baldeo,assembly-member-24,24th Assembly District,Member of the Assembly,http://albertbaldeo.com/,,,,
+Democratic,David I. Weprin,assembly-member-24,24th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/David_Weprin,,,,
+Democratic,Mahfuzul Islam,assembly-member-24,24th Assembly District,Member of the Assembly,https://www.linkedin.com/in/islammahfuzul,,,,
+Democratic,Shea Uzoigwe,assembly-member-31,31st Assembly District,Member of the Assembly,https://queenseagle.com/all/richard-david-shea-uzoigwe-open-assembly-seat,,,,
+Democratic,Lisa George,assembly-member-31,31st Assembly District,Member of the Assembly,https://www.rockawave.com/articles/well-known-local-staffer-eyes-assembly-seat/,,,,
+Democratic,Khaleel Anderson,assembly-member-31,31st Assembly District,Member of the Assembly,https://twitter.com/khaleelanderson?lang=en,,,,
+Democratic,Tavia Blakley,assembly-member-31,31st Assembly District,Member of the Assembly,https://qns.com/story/2020/01/10/what-you-need-to-know-about-the-race-to-fill-michele-titus-assembly-seat/,,,,
+Democratic,Richard David,assembly-member-31,31st Assembly District,Member of the Assembly,https://twitter.com/itsrichdavid?lang=en,,,,
+Democratic,Derrick DeFlorimonte,assembly-member-31,31st Assembly District,Member of the Assembly,https://www.facebook.com/iamderrickdeflo/,,,,
+Democratic,Clyde Vanel,assembly-member-33,33rd Assembly District,Member of the Assembly,https://assembly.state.ny.us/mem/Clyde-Vanel,,,,
+Democratic,Oster Bryan,assembly-member-33,33rd Assembly District,Member of the Assembly,https://qns.com/story/2018/09/03/oster-bryan-challenges-clyde-vanel-for-southeast-queens-assembly-seat/,,,,
+Democratic,Joy Chowdhury,assembly-member-34,34th Assembly District,Member of the Assembly,https://www.joyfornys.com/,,,,
+Democratic,Michael G. DenDekker,assembly-member-34,34th Assembly District,Member of the Assembly,https://assembly.state.ny.us/mem/Michael-G-DenDekker,,,,
+Democratic,Angel Cruz,assembly-member-34,34th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Angel_Cruz,,,,
+Democratic,Jessica GonzalezRojas,assembly-member-34,34th Assembly District,Member of the Assembly,https://www.votejgr.com/news,,,,
+Democratic,Nuala O'DohertyNaranjo,assembly-member-34,34th Assembly District,Member of the Assembly,https://nualafor34.com/,,,,
+Democratic,Jeffrion L. Aubry,assembly-member-35,35th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Jeffrion_L._Aubry,,,,
+Democratic,Hiram Monserrate,assembly-member-35,35th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Hiram_Monserrate,,,,
+Democratic,Aravella Simotas,assembly-member-36,36th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Aravella_Simotas,,,,
+Democratic,Zohran Kwame Mamdani,assembly-member-36,36th Assembly District,Member of the Assembly,https://www.zohranforassembly.com/,,,,
+Democratic,Catherine Nolan,assembly-member-37,37th Assembly District,Member of the Assembly,https://nyassembly.gov/mem/Catherine-Nolan,,,,
+Democratic,Danielle Brecker,assembly-member-37,37th Assembly District,Member of the Assembly,https://www.danielleforassembly.com/,,,,
+Democratic,Mary Jobaida,assembly-member-37,37th Assembly District,Member of the Assembly,https://www.maryforassembly.com/,,,,
+Democratic,Joseph De Jesus,assembly-member-38,38th Assembly District,Member of the Assembly,https://dejesus2020.com/,,,,
+Democratic,Michael G. Miller,assembly-member-38,38th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Michael_G._Miller,,,,
+Democratic,Jenifer Rajkumar,assembly-member-38,38th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Jenifer_Rajkumar,,,,
+Democratic,Catalina Cruz,assembly-member-39,39th Assembly District,Member of the Assembly,https://nyassembly.gov/mem/Catalina-Cruz/bio/,,,,
+Democratic,Ramon A. Ramirez,assembly-member-39,39th Assembly District,Member of the Assembly,https://en.wikipedia.org/wiki/Roberto_Ramirez_(politician),,,,
+Democratic,Ron Kim,assembly-member-40,40th Assembly District,Member of the Assembly,https://assembly.state.ny.us/mem/Ron-Kim,,,,
+Democratic,Steven Lee,assembly-member-40,40th Assembly District,Member of the Assembly,https://stevefornewyork.com/,,,,
+Bronx,,,,,,,,,
+Democratic,Ramon Rodriguez,us-representative-13,13th Congressional District,Representative in Congress,https://ramonforcongress.com/,,,,
+Democratic,James Felton Keith II,us-representative-13,13th Congressional District,Representative in Congress,,,,,
+Democratic,Adriano Espaillat,us-representative-13,13th Congressional District,Representative in Congress,,,,,
+Democratic,Michelle Caruso-Cabrera,us-representative-14,14th Congressional District,Representative in Congress,,,,,
+Democratic,Alexandria Ocasio-Cortez,us-representative-14,14th Congressional District,Representative in Congress,,,,,
+Democratic,Tomas Ramos,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Samelys Lopez,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Frangell Basora,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Melissa Mark-Viverito,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Michael A. Blake,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Ruben Diaz,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Mark Escoffery-Bey,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Ritchie Torres,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Chivona R. Newsome,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Ydanis Rodriguez,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Julio Pabon,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Marlene J. Tapper,us-representative-15,15th Congressional District,Representative in Congress,,,,,
+Democratic,Christopher Fink,us-representative-16,16th Congressional District,Representative in Congress,,,,,
+Democratic,Andom Ghebreghiorgis,us-representative-16,16th Congressional District,Representative in Congress,,,,,
+Democratic,Jamaal Bowman,us-representative-16,16th Congressional District,Representative in Congress,,,,,
+Democratic,Eliot L. Engel,us-representative-16,16th Congressional District,Representative in Congress,,,,,
+Democratic,Sammy Ravelo,us-representative-16,16th Congressional District,Representative in Congress,,,,,
+Democratic,Pamela Stewart-Martinez,state-senator-32,32nd Congressional District,State Senator,https://www.nyccfb.info/nyc-votes/vgwelcome/special-election-2018/meet-the-candidates/state-senate-district-32/pamela-stewart-martinez/?languageType=English,,,,
+Democratic,John Perez,state-senator-32,32nd Congressional District,State Senator,,,,,
+Democratic,Luis R. Sepulveda,state-senator-32,32nd Congressional District,State Senator,,,,,
+Democratic,James B. Gisondi,state-senator-34,34th Congressional District,State Senator,https://patch.com/new-york/pelham/candidate-profile-james-gisondi-state-senate,,,,
+Democratic,Alessandra Biaggi,state-senator-34,34th Congressional District,State Senator,https://www.biaggi4ny.com/meet-alessandra,,,,
+Democratic,Jose Rivera,assembly-member-78,78th Assembly District,Member of the Assembly,,,,,
+Democratic,Francisco Spies,assembly-member-78,78th Assembly District,Member of the Assembly,,,,,
+Democratic,Eric Stevenson,assembly-member-79,79th Assembly District,Member of the Assembly,,,,,
+Democratic,Elvis Santana,assembly-member-79,79th Assembly District,Member of the Assembly,,,,,
+Democratic,Cynthia L. Cox,assembly-member-79,79th Assembly District,Member of the Assembly,,,,,
+Democratic,Dion Powell,assembly-member-79,79th Assembly District,Member of the Assembly,,,,,
+Democratic,George A. Alvarez,assembly-member-79,79th Assembly District,Member of the Assembly,,,,,
+Democratic,Chantel Jackson,assembly-member-79,79th Assembly District,Member of the Assembly,,,,,
+Democratic,George Diaz,assembly-member-81,81st Assembly District,Member of the Assembly,,,,,
+Democratic,Jeffrey Dinowitz,assembly-member-81,81st Assembly District,Member of the Assembly,,,,,
+Democratic,Egidio Sementilli,assembly-member-82,82nd Assembly District,Member of the Assembly,,,,,
+Democratic,Michael R. Benedetto,assembly-member-82,82nd Assembly District,Member of the Assembly,,,,,
+Republican,Joseph M. Caldarera,us-representative-11,11th Congressional District,Representative in Congress,https://joecal.nyc/issues/,,https://joecal.nyc/why-i-am-running/,,
+Republican,Nicole Malliotakis,us-representative-11,11th Congressional District,Representative in Congress,https://nicolemalliotakis.com/the-issues/,,https://nicolemalliotakis.com/meet-nicole/,,
+Republican,Marko Kepi,assembly-member-64,64th Assembly District,Member of the Assembly,couldnt find a good quick list,,https://markokepi.com/about-marko/,,
+Republican,Michael Tannousis,assembly-member-64,64th Assembly District,Member of the Assembly,https://www.kingscountypolitics.com/tannousis-touts-covid-19-relief-public-security-in-bid-for-assembly/,,https://miketannousis.com/meet-mike/,,
